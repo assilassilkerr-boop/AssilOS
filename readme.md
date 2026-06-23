@@ -2,6 +2,10 @@
 
 AssilOS is a minimal 16-bit x86 boot sector operating system built from a modified version of nanochess bootOS. It runs directly from BIOS without requiring any underlying operating system.
 
+## 📸 Screenshot
+
+![AssilOS Command Prompt](screenshot.png)
+
 ## ⚙️ Features
 
 - Boots directly from BIOS (no GRUB, no Linux)
@@ -23,7 +27,7 @@ AssilOS is loaded by the BIOS into memory at `0x7C00` and executes directly as a
 To build and run AssilOS, you need:
 
 - NASM assembler
-- QEMU emulator (or real hardware for advanced users)
+- QEMU emulator and VirtualBox (or real hardware for advanced users)
 - Make (optional)
 
 ## 🛠️ Build Instructions
