@@ -4,7 +4,7 @@ AssilOS is a minimal 16-bit x86 boot sector operating system built from a modifi
 
 ## 📸 Screenshot
 
-![AssilOS Command Prompt](screenshot.png)
+![AssilOS Running in VirtualBox](screenshot.png)
 
 ## ⚙️ Features
 
