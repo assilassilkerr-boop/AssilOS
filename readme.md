@@ -26,8 +26,9 @@ AssilOS is loaded by the BIOS into memory at `0x7C00` and executes directly as a
 
 To build and run AssilOS, you need:
 
+Windows 7 or later (or Linux and MacOS with Wine)
 - NASM assembler
-- QEMU emulator and VirtualBox (or real hardware for advanced users with CSM enabled)
+- QEMU emulator (or real hardware for advanced users with CSM enabled)
 - Make (optional)
 - VirtualBox 6.1 or later (make sure UEFI and secure boot are unchecked, AssilOS cannot boot in UEFI)
 
