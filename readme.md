@@ -4,7 +4,7 @@ AssilOS is a minimal 16-bit x86 boot sector operating system built from a modifi
 
 ## 📸 Screenshot
 
-![AssilOS Running in VirtualBox](screenshot.png)
+![AssilOS Running in VirtualBox 6.1](screenshot.png)
 
 ## ⚙️ Features
 
@@ -27,8 +27,9 @@ AssilOS is loaded by the BIOS into memory at `0x7C00` and executes directly as a
 To build and run AssilOS, you need:
 
 - NASM assembler
-- QEMU emulator and VirtualBox (or real hardware for advanced users)
+- QEMU emulator and VirtualBox (or real hardware for advanced users with CSM enabled)
 - Make (optional)
+- VirtualBox 6.1 or later (make sure UEFI and secure boot are unchecked, AssilOS cannot boot in UEFI)
 
 ## 🛠️ Build Instructions
 
