@@ -2,6 +2,10 @@
 
 AssilOS is a minimal 16-bit x86 boot sector operating system built from a modified version of nanochess bootOS. It runs directly from BIOS without requiring any underlying operating system.
 
+## 🙏 Credits
+
+- [nanochess](https://github.com/nanochess) — for the original [BootOS](https://github.com/nanochess/bootOS) which AssilOS is based on
+
 ## 📸 Screenshot
 
 ![AssilOS Running in VirtualBox 6.1](screenshot.png)
