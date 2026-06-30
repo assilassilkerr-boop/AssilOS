@@ -31,6 +31,7 @@ To build and run AssilOS, you need:
 - QEMU emulator (or real hardware for advanced users with CSM enabled)
 - Make (optional)
 - VirtualBox 6.1 or later
+Note for newer computers: If your machine uses UEFI, make sure to disable Secure Boot and enable CSM (Legacy Boot) in your BIOS settings, otherwise AssilOS will not boot.
 
  🛠️ Build Instructions
 
@@ -39,4 +40,3 @@ To build and run AssilOS, you need:
 ```bash
 nasm -f bin os.asm -o os.img
 
-Note for newer computers: If your machine uses UEFI, make sure to disable Secure Boot and enable CSM (Legacy Boot) in your BIOS settings, otherwise AssilOS will not boot.
