@@ -36,7 +36,7 @@ To build and run AssilOS, you need:
 - Make (optional)
 - VirtualBox 6.1 or later
 - DOSBox-X
-- Intel 8086/8088 to 4th generation
+- Intel 8086/8088 (The original IBM PC or older IBM ThinkPad) to 4th generation
 - USB formatted with FAT12/FAT16/FAT32 and Floppy Disk (IMPORTANT: Avoid CD, as it AssilOS cannot boot from CD)
 -  Note for newer computers: If your machine uses UEFI, make sure to disable Secure Boot and enable CSM (Legacy Boot) in your BIOS settings, otherwise AssilOS will not boot.
 
