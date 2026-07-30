@@ -1,11 +1,11 @@
-### AssilOS
+### AssilOS (Codenamed Aurès)
 AssilOS is monolithc boot-sector operating system that based on bootOS, is it not linux-based.
 
 ### license
 AssilOS is released under BSD 2-Clause license, see [License](LICENSE).
 
 ### screenshot
-[screenshot](SCREENSHOT.PNG)
+![screenshot](SCREENSHOT.PNG)
 
 ### requirements
 - linux distros/BSD/macOS/windows
