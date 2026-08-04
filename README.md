@@ -21,4 +21,4 @@ you can: study, modify, distribute AssilOS (with requirements), use it in commer
 you cannot: remove copyright notice of nanochess, claim as your own, use it for illegal actions.
 
 ### build instruction
-this repo has build.bat so you can compile
+nasm -f bin os.asm -l os.lst -o os.img
