@@ -1,4 +1,4 @@
-### AssilOS (Codenamed Aurès)
+# AssilOS (Codenamed Aurès) 💾
 AssilOS is monolithc boot-sector operating system that based on bootOS, is it not linux-based.
 
 ### license
