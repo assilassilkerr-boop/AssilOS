@@ -15,10 +15,15 @@ AssilOS is released under BSD 2-Clause license, you can modify, sell, redistribu
 - DOSBox-X (optional)
 - NASM assembler
 
+### Can it run bootOS programs and bootOS games?
+yes!, it can run programs or games because AssilOS is based on bootOS, you can get them from [nanochess](https://github.com/nanochess/)
+also, you can create your own programs or games (they must fit to 512-bytes!) and you can use [AssilBASIC](https://github.com/assilassilkerr-boop/AssilBASIC/]
+avoid use DOS programs, as they won't fit into 512-bytes
+
 ### rules
 
-you can: study, modify, distribute AssilOS (with requirements), use it in commercial products, use it for retro computing.
-you cannot: remove copyright notice of nanochess, claim as your own, use it for illegal actions.
+- you can: study, modify, distribute AssilOS (with requirements), use it in commercial products, use it for retro computing.
+- you cannot: remove copyright notice of nanochess, claim as your own, use it for illegal actions.
 
 ### build instruction
 nasm -f bin os.asm -l os.lst -o os.img
