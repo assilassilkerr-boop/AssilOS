@@ -2,7 +2,7 @@
 AssilOS is monolithc boot-sector operating system that based on bootOS, is it not linux-based.
 
 ### license
-AssilOS is released under BSD 2-Clause license, see [License](LICENSE).
+AssilOS is released under BSD 2-Clause license, you can modify, sell, redistribute under BSD 2-Clause terms, see [License](LICENSE).
 
 ### screenshot
 ![screenshot](SCREENSHOT.PNG)
