@@ -1,5 +1,5 @@
 # AssilOS (Codenamed Aurès) 💾
-[![Made in Algeria](https://www.madeinalgeria.dev/badge/assilos.svg)](https://www.madeinalgeria.dev/projects/assilos) [![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) 
+[![Made in Algeria](https://www.madeinalgeria.dev/badge/assilos.svg)](https://www.madeinalgeria.dev/projects/assilos) [![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) [![Made in Algeria](https://img.shields.io/badge/Made%20in-Algeria-green.svg)](https://en.wikipedia.org/wiki/Batna,_Algeria)
 
 AssilOS is monolithc boot-sector operating system that based on bootOS, is it not linux-based.
 
