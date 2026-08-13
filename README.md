@@ -25,7 +25,7 @@ AssilOS is released under BSD 2-Clause license, you can modify, sell, redistribu
 ### rules
 
 - you can: study, modify, distribute AssilOS (with requirements), use it in commercial products, use it for retro computing.
-- you cannot: remove copyright notice of nanochess, claim as your own, use it for illegal actions.
+- you cannot: remove copyright notice of nanochess or AssilOS Project, claim as your own, use it for illegal actions.
 
 ### build instruction
 nasm -f bin os.asm -l os.lst -o os.img
