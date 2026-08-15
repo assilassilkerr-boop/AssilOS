@@ -22,6 +22,11 @@ AssilOS is released under BSD 2-Clause license, you can modify, sell, redistribu
 - also, you can create your own programs or games (they must fit to 512-bytes!) 
 - avoid use DOS programs, as they won't fit into 512-bytes
 
+### limitations
+USB and CD booting are not supported
+Legacy BIOS-only, no UEFI support
+16-bits
+
 ### rules
 
 - you can: study, modify, distribute AssilOS (with requirements), use it in commercial products, use it for retro computing.
