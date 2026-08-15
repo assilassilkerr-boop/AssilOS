@@ -23,9 +23,9 @@ AssilOS is released under BSD 2-Clause license, you can modify, sell, redistribu
 - avoid use DOS programs, as they won't fit into 512-bytes
 
 ### limitations
-USB and CD booting are not supported
-Legacy BIOS-only, no UEFI support
-16-bits
+-USB and CD booting are not supported
+-Legacy BIOS-only, no UEFI support
+-16-bits
 
 ### rules
 
